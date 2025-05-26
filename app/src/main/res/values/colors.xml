@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_hint">#BB86FC</color>
+    <color name="deep_black">#121212</color>
+    <color name="purple_dark">#3E1F47</color>
+    <color name="purple_light">#BB86FC</color>
+    <color name="nav_item_color">#E1BEE7</color>
+</resources>

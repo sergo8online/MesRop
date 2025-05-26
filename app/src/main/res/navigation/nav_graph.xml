@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/navigation_profile">
+
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="com.example.mesroptest.ui.profile.ProfileFragment"
+        android:label="Profile" />
+
+    <fragment
+        android:id="@+id/navigation_camera"
+        android:name="com.example.mesroptest.ui.camera.CameraFragment"
+        android:label="Camera" />
+
+    <fragment
+        android:id="@+id/navigation_notes"
+        android:name="com.example.mesroptest.ui.notes.NotesFragment"
+        android:label="Notes" />
+
+</navigation>
